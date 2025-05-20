@@ -1,0 +1,1 @@
+A simple Java-based Electricity Billing System with a login screen, dashboard, and bill generation form. Developed using Java Swing for GUI and MySQL for backend database operations. This project demonstrates CRUD operations using JDBC.
